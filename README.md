@@ -1,1 +1,1 @@
-# CTG_TRADING_COMPETITION
+market research work with public fed data
